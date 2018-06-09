@@ -1,7 +1,7 @@
 {
-    "name": "oro/doctrine-extensions",
+    "name": "devimteam/doctrine-extensions",
     "type": "library",
-    "description": "Doctrine Extensions for MySQL and PostgreSQL.",
+    "description": "Doctrine Extensions for MySQL and PostgreSQL. Fork with bigint support",
     "homepage": "https://github.com/orocrm/doctrine-extensions/",
     "keywords": ["database", "mysql", "postgresql", "dql", "function", "doctrine", "type"],
     "license": "MIT",
